@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Risk Analytics 2
+title: Risk Analytics
 ---
 <h2>{{ page.title }}</h2>
 <p>Latest posts</p>
