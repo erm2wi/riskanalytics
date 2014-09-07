@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Post
+title: Third Post
 ---
 <h2>{{ page.title }}</h2>
 <p>The test post on github</p>
